@@ -1,0 +1,8 @@
+prefix=/home/robond/Desktop/myrobot/catkin_ws/devel
+
+Name: RvizConfig
+Description: Description of RvizConfig
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/robond/Desktop/myrobot/catkin_ws/devel/lib 
+Requires: 

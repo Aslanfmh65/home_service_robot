@@ -1,0 +1,8 @@
+prefix=/home/robond/Desktop/myrobot/catkin_ws/install
+
+Name: add_marker
+Description: Description of add_marker
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/robond/Desktop/myrobot/catkin_ws/install/lib 
+Requires: 
